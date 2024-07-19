@@ -917,3 +917,112 @@ Start importing Assets/Lets Make a VR Game/TerminatorHand/Terminator Hand.fbx us
  -> (artifact id: '850dacd36539cd2665931f5e5fa08c36') in 0.269077 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 76
+========================================================================
+Received Import Request.
+  Time since last request: 11847.568561 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs
+  artifactKey: Guid(bdac126a78a816940b04943c40e6c70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs using Guid(bdac126a78a816940b04943c40e6c70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '609c5216016a1bec3c0aedb5cf8eab14') in 0.004233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.049382 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building.prefab
+  artifactKey: Guid(c13d299b30db58243801e4255ef2884a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building.prefab using Guid(c13d299b30db58243801e4255ef2884a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4b87b338761f89cb39518f2199d95b8d') in 0.499127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_M2.prefab
+  artifactKey: Guid(d0e348f69b013984f980dbee6e6c67e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_M2.prefab using Guid(d0e348f69b013984f980dbee6e6c67e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '86bd3f44bac687a54882e19d9296a63e') in 0.368304 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 84
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_Destroyed_V4.prefab
+  artifactKey: Guid(53592d8be5aa30d4ba3337adbdf5ad33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_Destroyed_V4.prefab using Guid(53592d8be5aa30d4ba3337adbdf5ad33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aa5b54f8b9ebfcd4a65b39019325ec59') in 0.034100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_Destroyed_V3.prefab
+  artifactKey: Guid(ffe73320e054b5a4dbec662e963ff59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_Destroyed_V3.prefab using Guid(ffe73320e054b5a4dbec662e963ff59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd155f46280586e74ee4d68c240c9552a') in 0.032361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Modular_F1.prefab
+  artifactKey: Guid(0573ab315a040414d8d264b62551fce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Modular_F1.prefab using Guid(0573ab315a040414d8d264b62551fce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '794e59bb869e675a3b0e02a375ce6650') in 0.032768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_M1.prefab
+  artifactKey: Guid(04bfa695fa068a4438d7be035a26fc24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_M1.prefab using Guid(04bfa695fa068a4438d7be035a26fc24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '30b8cfec029c9533d32332053159b584') in 0.164651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 84
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Modular_Pillar.prefab
+  artifactKey: Guid(00bbd7bbb63ef7149a38d214388ac850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Modular_Pillar.prefab using Guid(00bbd7bbb63ef7149a38d214388ac850) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1f642fd4c03e1602bc8d514785c6fe21') in 0.034435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Modular_R2.prefab
+  artifactKey: Guid(a732411c72ed89f4ea6d1ebb0400bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Modular_R2.prefab using Guid(a732411c72ed89f4ea6d1ebb0400bd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '321768453fd02239ffb22b98a177b884') in 0.027411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_Destroyed_V2.prefab
+  artifactKey: Guid(d306bef2c2fe7294abe17f0c696e68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_Destroyed_V2.prefab using Guid(d306bef2c2fe7294abe17f0c696e68dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1023564ff1991e70eeb66fa19d78c751') in 0.029887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_M5.prefab
+  artifactKey: Guid(9f87796d26515e44ca60782698d04081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert_Buildings_Modular/Prefabs/Desert_Building_M5.prefab using Guid(9f87796d26515e44ca60782698d04081) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f6eb11244118f2bc733396ecd825e64e') in 0.212988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 140
